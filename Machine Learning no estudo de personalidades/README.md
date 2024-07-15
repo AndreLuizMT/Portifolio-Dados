@@ -1,10 +1,13 @@
-# Projeto: Modelagem Relacional de Empresa
-**Objetivo**: Criar um Modelo de Entidade - Relacionamento para uma empresa e a partir deste modelo criar o Modelo Lógico e por ultimo o BD ( Banco de dados) 
+# Projeto: Projeto de Teste de Personalidade com Machine Learning
+**Objetivo**: Utilizar Machine Learning para aprendizagem baseado em perguntas, manipular e demonstrar esses dados
 
-**Linguagem**: SQL (MySQL/SQL Server) / UML (brModelo)
+**Fonte e base de dados**:https://www.kaggle.com/tungunz/big-five-personality-test
+
+**Linguagem**: Python 
 
 **Fases:**
-- Elaboração do Modelo de Entidade - Relacionamento (brModelo)
-- Elaboração do Modelo Lógico (MySQL)
-- Criação do Banco de Dados (SQL Server)
+- Manipulação de dados
+- Aplicação do método Ebow
+- Divisao de Clusters baseados no Ebow
+- Apresentando informações do grupo em gráficos
 
