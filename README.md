@@ -19,7 +19,6 @@ Aqui encontrará:
 |    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
 | ------------        | ------------        | ------------ | ------------    |------------ |
 | **Prevendo Valores de Imóveis** | [Previsão de Valores de Imóveis](https://github.com/aasouzaconsult/Cientista-de-Dados/blob/master/Previs%C3%A3o%20Valores%20de%20Im%C3%B3veis/PrevisaoValores_Regressao.ipynb) | Python | data.csv | **Um projeto completo de Machine Learning**, da definição do problema, passando pela Análise Exploratória dos Dados (EDA - *Exploratory Data Analysis*), tratamento, geração do modelo (Regressão utilizando ***Regressão Linear, Decision Tree, Random Forest***) até o Deploy em Produção, utilizando **streamlit**|
-| **Covid-19 (Einstein Data4u)** | [Proposta](https://www.kaggle.com/aasouzaconsult/prevendo-covid-19-no-brasil) | Python | [Kaggle](https://www.kaggle.com/einsteindata4u/covid19) | Proposta de solução para o desafio do Hospital Israelita Albert Einstein - **Etapas**: Análise Exploratória de Dados, Balançeamento de Classes, aplicação de diversos **algoritmos de Classificação** e exposição dos resultados |
 
 
 ------------
