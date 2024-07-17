@@ -3,7 +3,7 @@
               do Data Warehouse no Power BI
               
 **Linguagem**: Modelo de Entidade - Relacionamento (brModelo)/ Modelo Lógico (MySQL)/ BD e Data Warehouse (SQL Server)
-               Modelo Multidimensional e DashBoards (Power BI)
+               Modelo Multidimensional e DashBoards (Power BI) / AED - Análise Exploratoria de Dados(Python)
 
 **CSV do INEP 2023 para dependetes**: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
 
@@ -15,6 +15,8 @@
 - Realização do ETL (SQL Server)
 - Criação do DataWarehouse (SQL Server)
 - Elaboração do Modelo Multidimensional (Power BI)
+- Análise Exploratoria de Dados (Python)
 - Importação do DW no Power BI (Power BI) 
 - Elaboração do DashBoard e organização de dados (Power BI)
+  
 
