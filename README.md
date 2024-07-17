@@ -1,4 +1,4 @@
-![author](https://img.shields.io/badge/Name-Andr%C3%A9-blue) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![author](https://img.shields.io/badge/Name-Andr%C3%A9-blue) ![Languager](https://img.shields.io/badge/Language-Python-green) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 
 
 # Portfólio de Projetos em Dados (Buscando valor em Dados)
