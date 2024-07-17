@@ -18,8 +18,8 @@ Aqui encontrará:
 
 ------------
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-|    Nome do Projeto  | Notebook ou Link    | Linguagem    | Fonte de Dados  | Observação  | 
-| ------------        | ------------        | ------------ | ------------    |------------ |
+|    Nome do Projeto  | Notebook ou Link    | Linguagem    || IDE    || Bibliotecas    | Fonte de Dados  | Observação  | 
+| ------------        | ------------        | ------------ || ------ || -------------- | --------------- | ----------- |
 | **ORGANIZANDO** | [ORGANIZANDO]((https://github.com/AndreLuizMT/Portifolio-Dados)) | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | data.csv | **ORGANIZANDO**, organizando|
 
 
