@@ -1,4 +1,4 @@
-[![author](https://img.shields.io/badge/Nome-Andr%C3%A9-blue)[![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)
+![author](https://img.shields.io/badge/Nome-Andr%C3%A9-blue) [![Language](https://img.shields.io/badge/Language-Python|R-green.svg)](https://www.python.org/downloads/release/python-365/) [![GPLv3 license](https://img.shields.io/badge/License-GPLv3-red.svg)](http://perso.crans.org/besson/LICENSE.html) [![contributions welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat)](https://github.com/aasouzaconsult/Cientista-de-Dados)
 
 
 # Portfólio de Projetos em Dados (Buscando valor em Dados)
