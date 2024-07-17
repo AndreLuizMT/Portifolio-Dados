@@ -1,10 +1,11 @@
-# Projeto: Modelagem Relacional de Empresa
-**Objetivo**: Criar um Modelo de Entidade - Relacionamento para uma empresa e a partir deste modelo criar o Modelo Lógico e por ultimo o BD ( Banco de dados) 
+# Projeto: Machine Learning na recomendação de filmes
+**Objetivo**: Criação de um sistema de recomendação de filmes
+**Fonte**: https://www.kaggle.com/code/alyssonbispopereira/recomenda-o-de-filmes-ptbr/data
 
-**Linguagem**: SQL (MySQL/SQL Server) / UML (brModelo)
+**Linguagem**: Python
 
 **Fases:**
-- Elaboração do Modelo de Entidade - Relacionamento (brModelo)
-- Elaboração do Modelo Lógico (MySQL)
-- Criação do Banco de Dados (SQL Server)
+- Importação de bibliotecas/dados
+- Pré-Processamento de Dados
+- Previsão e Sugestao de filmes
 
