@@ -1,10 +1,10 @@
-# Projeto: Modelagem Relacional de Empresa
-**Objetivo**: Criar um Modelo de Entidade - Relacionamento para uma empresa e a partir deste modelo criar o Modelo Lógico e por ultimo o BD ( Banco de dados) 
+# Projeto: AED - Analise Exploratoria de Dados
+**Objetivo**: Demonstrar Analise Exploratoria de Dados
 
-**Linguagem**: SQL (MySQL/SQL Server) / UML (brModelo)
+**Linguagem**: Python / SQL Server
 
 **Fases:**
-- Elaboração do Modelo de Entidade - Relacionamento (brModelo)
-- Elaboração do Modelo Lógico (MySQL)
-- Criação do Banco de Dados (SQL Server)
+- Instalação de Serviços
+- Conexão com o Banco de Dados (SQL Server)
+- Exploração de Dados
 
