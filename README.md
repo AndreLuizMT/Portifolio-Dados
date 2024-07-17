@@ -1,6 +1,6 @@
 ![author](https://img.shields.io/badge/Name-Andr%C3%A9-blue) ![Language](https://img.shields.io/badge/Languages-Python-green)
 ![Language](https://img.shields.io/badge/Languages-SQL-red)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+
 
 
 # Portfólio de Projetos em Dados (Buscando valor em Dados)
