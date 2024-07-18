@@ -12,7 +12,9 @@ Os Projetos conta com modelagem de dados desde entidade relacionamento até proj
 
 Aqui encontrará:
 - Modelagem Entidade - Relacionamento
+- Modelagem Multidimensional
 - Elaboração de banco de dados baseado em modelo Entidade - Relacionamento
+- Elaboração de Data Warehouse
 - Projetos de Microsoft Power BI
 - Projetos de Machine Learning utilizando Python
 
