@@ -13,7 +13,7 @@ USE stage_area;
 -------------------------
 -- ** EXTRACT E LOAD  **
 -------------------------
--- VENDA
+-- VENDAS
 DROP TABLE IF EXISTS stage_area..tbven;
 SELECT *					-- EXTRACT
 	INTO stage_area.. tbven -- LOAD (carregando na stage area)..
@@ -65,10 +65,10 @@ USE armazemdedados;
 ---------------------------------------------------
 
 -- ***************
--- ** Dimensıes **
+-- ** Dimens√µes **
 -- ***************
 ---------------------------------------------------
--- Dimens„o Vendedor
+-- Dimens√£o Vendedor
 DROP TABLE IF EXISTS armazemdedados..dim_vendedor;
 SELECT cdvdd AS CodigoVendedor,
 	   nmvdd AS NomeVendedor,
@@ -79,7 +79,7 @@ SELECT cdvdd AS CodigoVendedor,
 	   FROM stage_area..tbvdd;
 
 ---------------------------------------------------
--- Dimens„o Dependente
+-- Dimens√£o Dependente
 DROP TABLE IF EXISTS armazemdedados..dim_dependente;
 SELECT cddep AS CodigoDependente,
 	   nmdep AS NomeDependente,
@@ -92,7 +92,7 @@ SELECT cddep AS CodigoDependente,
 
 	
 ---------------------------------------------------
--- Dimens„o Produto
+-- Dimens√£o Produto
 DROP TABLE IF EXISTS armazemdedados..dim_produto;
 	SELECT cdpro AS CodigoProduto,
 		   nmpro AS NomeProduto,
@@ -104,7 +104,7 @@ DROP TABLE IF EXISTS armazemdedados..dim_produto;
 	FROM stage_area..tbpro;
 
 ---------------------------------------------------
--- Dimens„o Data
+-- Dimens√£o Data
 DROP TABLE IF EXISTS armazemdedados..dim_data;
 SELECT DISTINCT
 		dtVen			AS Data,
@@ -116,10 +116,10 @@ SELECT DISTINCT
 	FROM stage_area..tbven;
 
 --------------------------------------------------
--- Dimens„o Canais
+-- Dimens√£o Canais
 DROP TABLE IF EXISTS armazemdedados..dim_canal;
 SELECT DISTINCT
-	   CASE WHEN canal = 'Loja PrÛpria' THEN 1
+	   CASE WHEN canal = 'Loja Pr√≥pria' THEN 1
 		    WHEN canal = 'Loja Virtual' THEN 2
 	   ELSE 'Outros' END AS CodigoCanalVendas,
 	   canal			 AS CanalVendas
@@ -127,7 +127,7 @@ SELECT DISTINCT
   FROM stage_area..tbven;
 
 -------------------------------------------------
--- Dimens„o Cliente
+-- Dimens√£o Cliente
 DROP TABLE IF EXISTS armazemdedados..dim_cliente;
 SELECT DISTINCT
 		cdcli AS CodigoCliente,
@@ -142,7 +142,7 @@ SELECT DISTINCT
 	FROM stage_area..tbcli;
 
 -------------------------------------------------
--- Dimens„o Status
+-- Dimens√£o Status
 
 -- Status da Venda (1-OK, 2-EXCLUIDO, 3-CANCELADO)
 SELECT DISTINCT
@@ -170,7 +170,7 @@ SELECT cdven	AS CodigoVenda,
 	   vruven	AS ValorUnitarioVenda,
 	   vrtven	AS ValorTotalVenda,
 	   cdvdd	AS CodigoVendedor,
-	   CASE WHEN canal = 'Loja PrÛpria' THEN 1
+	   CASE WHEN canal = 'Loja Pr√≥pria' THEN 1
 			WHEN canal = 'Loja Virtual' THEN 2
 	   END		AS CodigoCanalVendas,
 	   stven    AS CodigoStatus,
