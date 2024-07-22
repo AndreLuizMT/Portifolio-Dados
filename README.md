@@ -30,4 +30,4 @@ Aqui encontrará:
   
 ------------
 
-**André Luiz** (*Especialista em QA*) - | [LinkedIn](https://www.linkedin.com/in/andreluizMT/) |
+**André Luiz** (*Analista de Sistemas*) - | [LinkedIn](https://www.linkedin.com/in/andreluizMT/) |
