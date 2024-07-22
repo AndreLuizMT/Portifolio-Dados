@@ -3,7 +3,7 @@
 
 
 
-# Portfólio de Projetos em Dados (Estudo e Análise aprofundado em Dados)
+# Portfólio de Projetos em Dados (Estudo e Análise aprofundado de Dados)
 
 Neste repositório encontrará alguns trabalhos que desenvolvi e estou desenvolvendo, ao longo da minha vida acadêmica e profissional, onde busco através dos dados encontrar informações valiosas para a tomada de decisão.
 Os Projetos conta com modelagem de dados desde entidade relacionamento até projetos com a utilização de *Machine Learning* para previsão futuras , estudo de casos e análises de dados utilizando *business Inteligence*
