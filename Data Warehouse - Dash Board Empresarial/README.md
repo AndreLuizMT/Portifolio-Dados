@@ -7,7 +7,6 @@ AINDA EM CONSTRUÇÃO
 **Linguagem**: Modelo de Entidade - Relacionamento (brModelo)/ Modelo Lógico (MySQL)/ BD e Data Warehouse (SQL Server)
                Modelo Multidimensional e DashBoards (Power BI) / AED - Análise Exploratoria de Dados (Python)
 
-**CSV do INEP 2023 para dependetes**: https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar
 
 **Fases:**
 - Elaboração do Modelo de Entidade - Relacionamento (brModelo)
