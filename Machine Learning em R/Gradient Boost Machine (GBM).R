@@ -18,7 +18,7 @@ library(caTools)
 library(caret)
 
 # 3 - CARREGANDO O DATASET #
-credit_data <- read.csv("C:/Users/André PC/Desktop/Scripts R/Projeto ML com R/credit-g.csv")
+credit_data <- read.csv("Endereço do Dataset")
 
 # 4 - CONVERTENDO VARIÁVEIS CATEGÓRICAS PARA FATORES #
 categorical_cols <- c("checking_status", "duration", "credit_history", "purpose",
