@@ -1,4 +1,5 @@
-![author](https://img.shields.io/badge/Name-Andr%C3%A9%20Luiz-blue) [![Language](https://img.shields.io/badge/Languages-Python-green)](https://www.python.org/downloads/release/python-365/)
+![author](https://img.shields.io/badge/Name-Andr%C3%A9%20Luiz-blue) [![Language](https://img.shields.io/badge/Languages-Python-green)](https://www.python.org/downloads/release/python-365/) 
+[![Language](https://img.shields.io/badge/Languages-R-326fa8)](https://www.r-project.org/)
 [![Language](https://img.shields.io/badge/Languages-SQL-red)](https://pt.wikipedia.org/wiki/SQL)
 ![](https://github.com/AndreLuizMT/Portifolio-Dados/blob/main/banner.png)
 
