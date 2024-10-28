@@ -15,7 +15,7 @@ library(caTools)
 library(caret)
 
 # 3 - CARREGANDO O DATASET #
-credit_data <- read.csv("C:/Users/André PC/Desktop/Scripts R/Projeto ML com R/credit-g.csv")
+credit_data <- read.csv("Endereço de Dataset")
 credit_data$class <- as.factor(credit_data$class)
 
 # 4 - DIVIDINDO OS DADOS EM TREINO(70%) E TESTE(30%) #
