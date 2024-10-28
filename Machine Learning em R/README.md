@@ -1,11 +1,11 @@
-# Projeto: Escolas do Censo 2023
-**Objetivo**: Demonstrar o Power BI integrada a base de dados do governo (INEP)
+# Projeto: Machine Learning em R para análise de credito.
+**Objetivo**: Demonstrar algoritmos de Aprendizado Supervisionado voltado a análise de credito.
 
-**Linguagem**: Power-BI
+**Linguagem**: R
 
 **Fases:**
-- Coleta dos Dados (site do [INEP](https://www.gov.br/inep/pt-br/acesso-a-informacao/dados-abertos/microdados/censo-escolar))
-- Integração ao sistema do Power BI através do arquivo csv
-- Filtragem de dados
-- Análise e Visualização de Resultados (utilizando o Power BI para a parte visual)
+- Coleta dos Dados ([Kaggle](https://www.kaggle.com/datasets/oscarmatiastorres/datos-credito-bancario-alemania-csv))
+- Desenvolvimento de Algoritmos Supervisionados.
+
+  
  
