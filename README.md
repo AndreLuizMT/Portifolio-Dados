@@ -18,7 +18,7 @@ Aqui encontrará:
 - Elaboração de banco de dados baseado em modelo Entidade - Relacionamento
 - Elaboração de Data Warehouse
 - Projetos de Microsoft Power BI
-- Projetos de Machine Learning utilizando Python
+- Projetos de Machine Learning utilizando Python/R
 
 ------------
 
