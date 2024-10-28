@@ -18,7 +18,7 @@ library(caret)
 library(randomForest)
 
 # 3 - CARREGANDO O DATASET #
-credit_data <- read.csv("C:/Users/André PC/Desktop/Scripts R/Projeto ML com R/credit-g.csv")
+credit_data <- read.csv("Endereçodo Dataset")
 
 # 4 - CONVERTER A COLUNA 'class' para fator (inadiplente ou não)
 credit_data$class <- as.factor(credit_data$class)
